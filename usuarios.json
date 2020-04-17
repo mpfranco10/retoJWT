@@ -1,0 +1,20 @@
+[{"username":"us1",
+    "password":"6e6fdf956d04289354dcf1619e28fe77",
+    "name":"Usuario 1",
+    "rol":"invitado"  
+  },
+  {"username":"us2",
+    "password":"6d5779b9b85bd4f11e44c9772e0de602",
+    "name":"Usuario 2",
+    "rol":"usuario"   
+  },
+  {"username":"us3",
+    "password":"de1774aac52706b13a39a08ad3ca7dfe",
+    "name":"Usuario 3",
+    "rol":"admin"  
+  },
+  {"username":"us4",
+    "password":"94406f55920a2c6a7c9b68e4bbe41fb8",
+    "name":"Usuario 4",
+    "rol":"usuario"   
+  }]
